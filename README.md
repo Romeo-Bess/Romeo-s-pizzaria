@@ -31,7 +31,7 @@ To run the Romeo's pizzaria website locally, follow these steps:
 
 ## Usage
 
-Feel free to explore the different sections of the website to get an understanding of my skills and capabilities as a web developer. You can interact with the navigation menu, slider, shopping cart, and login form to experience the full functionality of the site.
+Feel free to explore the different sections of the website to get an understanding of my skills and capabilities as a web developer. You can interact with the navigation menu, slider, demo shopping cart, and demo login form to experience the full functionality of the site.
 
 ## Credits
 
