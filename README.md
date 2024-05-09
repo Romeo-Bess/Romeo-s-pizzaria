@@ -1,7 +1,5 @@
 # Romeo's pizzaria Website
 
-Welcome to the Romeo's pizzaria website! This project showcases my web development skills and is designed to demonstrate my abilities to potential employers.
-
 ## Table of Contents
 
 - [Description](#description)
