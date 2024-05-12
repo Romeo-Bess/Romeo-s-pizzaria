@@ -45,7 +45,7 @@ section{
   background-size: cover; /* Making background image cover entire area */
   background-position: center; /* Centering background image */
   text-align: center; /* Centering text */
-  padding-top: 12rem; /* Adding top padding */
+  padding-top: 15rem; /* Adding top padding */
   padding-bottom: 8rem; /* Adding bottom padding */
 }
 
